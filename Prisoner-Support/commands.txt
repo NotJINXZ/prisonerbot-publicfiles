@@ -9,7 +9,7 @@ Commands:
 
 Admin Commands:
 
-s!support - Gives/Revokes user access to support channel
+s!support {user mention/id} - Gives/Revokes user access to support channel
 
 
 User Commands:
