@@ -1,3 +1,3 @@
-Discord: https://discord.io/prisoner
-Devs: [NotJINXZ](https://github.com/NotJINXZ)
-Start this project for a 🍪
+- Discord: https://discord.io/prisoner
+- Devs: [NotJINXZ](https://github.com/NotJINXZ)
+- Star this project for a 🍪
